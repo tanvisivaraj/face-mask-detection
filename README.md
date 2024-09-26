@@ -1,6 +1,6 @@
 # face-mask-detection
 
-This repository contains code for detecting face masks using deep learning. The model can classify whether a person is wearing a mask or not in real-time from webcam or image input.
+This repository contains code for detecting face masks using deep learning. The model can classify whether a person is wearing a mask or not in real-time from webcam.
 
 ## Features
 - Real-time face mask detection via webcam
